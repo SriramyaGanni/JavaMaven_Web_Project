@@ -1,15 +1,0 @@
---2026-03-06 09:39:53--  https://www.google.com/imgres?q=pizza.jpg
-Resolving www.google.com (www.google.com)... 142.250.205.196, 2001:4860:4829:7700::, 2001:4860:482a:7700::, ...
-Connecting to www.google.com (www.google.com)|142.250.205.196|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://www.google.com/imghp [following]
---2026-03-06 09:39:53--  https://www.google.com/imghp
-Reusing existing connection to www.google.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘pizza.jpg’
-
-pizza.jpg               [<=>                ]       0  --.-KB/s               pizza.jpg               [ <=>               ]  16.68K  --.-KB/s    in 0.05s   
-
-2026-03-06 09:39:54 (331 KB/s) - ‘pizza.jpg’ saved [17085]
-
